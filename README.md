@@ -34,7 +34,7 @@
 ## 📁 Project Structure
 
 ```bash
-SUMIT-ADMIN-PORTAL/
+VARUN-ADMIN-PORTAL/
 ├── 📂 admin/              # Admin frontend HTML pages
 ├── 📂 public/             # Public test interface
 ├── 📂 src/
@@ -58,7 +58,7 @@ SUMIT-ADMIN-PORTAL/
 
 ```bash
 git clone <your-repo-url>
-cd sumit-admin-portal
+cd varun-admin-portal
 ```
 
 ### 2. Install dependencies
@@ -263,6 +263,6 @@ MIT — Free to use and modify.
 ---
 
 <div align="center">
-Made with ❤️ by <b>Sumit</b>
+Made with ❤️ by <b>Varun</b>
 </div>
 ```
