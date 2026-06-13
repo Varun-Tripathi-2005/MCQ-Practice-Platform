@@ -1,5 +1,5 @@
 :root {
-  --bg: #f4f6f9;
+  --bg: #ffffff;
   --card: #ffffff;
   --text: #1a2332;
   --muted: #5c6b7a;
@@ -27,16 +27,25 @@ body {
   min-height: 100vh;
 }
 
+.navbar {
+  background-color: black;
+  margin:0;
+  margin-bottom: 2rem;
+  border-top: 0;
+}
+
 .container {
   max-width: 1500px;
   margin: 0 auto;
+  border: 0;
+  margin-bottom: 0;
 }
 
 .site-header {
-  background: linear-gradient(135deg, #1e3a8a, #2563eb);
+  background: linear-gradient(195deg, #000000, #4925ebfe);
   color: #fff;
   padding: 2rem 0;
-  margin-bottom: 2rem;
+  margin-bottom: 0;
 }
 
 .site-header h1 {
@@ -52,7 +61,7 @@ body {
 }
 
 .nav-links {
-  margin-top: 1rem;
+  margin-top: 0;
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
@@ -69,7 +78,7 @@ body {
 .nav-links a:hover {
   color: #3a72f4;
   translate: 3% 1% 1px;
-  box-shadow: var(--shadow);
+  text-shadow: var(--shadow);
   overflow: hidden;
 }
 
