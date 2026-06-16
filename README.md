@@ -113,7 +113,7 @@ npx nodemon server.js
 |---|---|
 | 🏠 Home | `http://localhost:3000/` |
 | 🔐 Admin Login | `http://localhost:3000/admin/login.html` |
-
+ 
 ---
 
 ## 🔐 Admin Login
